@@ -1,0 +1,5 @@
+ftp:
+  port: 2121
+  username: admin
+  password: admin
+  dir: E:\data
